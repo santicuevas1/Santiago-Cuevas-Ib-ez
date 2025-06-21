@@ -35,7 +35,8 @@
 ## 🌐 Conecta conmigo
 
 - 📧 santiagocuevasibanez@gmail.com  
-- 📍 Sanlúcar de Barrameda, Cádiz  
+- 📍 Sanlúcar de Barrameda, Cádiz
+- 📞 667 581 510 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(si tienes uno)*
 
 ---
