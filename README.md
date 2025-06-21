@@ -4,7 +4,7 @@
 🎓 Técnico en Sistemas Informáticos  
 🔧 Apasionado por la administración de redes, la automatización y la ciberseguridad  
 🚀 Siempre aprendiendo algo nuevo, especialmente en el mundo DevOps y Linux  
-🍔 También gestiono personas como encargado en Burger King 😄
+
 
 ---
 
@@ -20,7 +20,7 @@
 
 ## 📌 Proyectos destacados
 
-- 🔍 [Infra-cats](https://github.com/santicuevas1/Infra-cats) – Infraestructura automatizada con Terraform y LocalStack  
+- 🔍 [Infra-cats](https://github.com/santicuevas1/Infra-cats) – Infraestructura automatizada con Terraform y LocalStack  (Trabajo grupal)
 - 🐧 [TFG: Laboratorio de análisis de malware en Linux](https://github.com/santicuevas1/TuRepoTFG) – Entorno seguro para análisis en Ubuntu Server
 
 ---
