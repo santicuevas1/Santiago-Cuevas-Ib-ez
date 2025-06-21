@@ -37,7 +37,7 @@
 - 📧 santiagocuevasibanez@gmail.com  
 - 📍 Sanlúcar de Barrameda, Cádiz
 - 📞 667 581 510 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tu-usuario) *(si tienes uno)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/santi-cuevas-855ab636b)
 
 ---
 
